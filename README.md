@@ -79,3 +79,4 @@ https://github.com/ajdumanhug/awesome-bug-bounty-tips
 
 https://github.com/oneplus-x/The-Bug-Hunters-Methodology
 
+
